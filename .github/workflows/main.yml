@@ -19,4 +19,4 @@ jobs:
                 pip install -r requirements.txt 
             - name Run script
               run: |
-                python bty.py 
+                python main.py 
